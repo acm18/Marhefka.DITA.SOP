@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bb5_gbn_px">
+    <title>HOW TO MAKE A FROZEN DESSERT: CHERRY-CHOCOLATE ICE CREAM</title>
+        <shortdesc>This recipe is Dairy-Free.</shortdesc>
+        <taskbody>
+            <context>INGREDIENTS:<ul id="ul_ayy_gzm_px">
+                <li>
+                    <p>2 Cans Coconut Milk – 13.5 oz. Cans</p>
+                </li>
+                <li>
+                    <p>3/4 Cup Granulated Sugar</p>
+                </li>
+                <li>
+                    <p>1/2 Teaspoon Kosher Salt</p>
+                </li>
+                <li>
+                    <p>1 Teaspoon Pure Vanilla Extract</p>
+                </li>
+                <li>
+                    <p>1 Cup Frozen Cherries – thawed on the counter in Room 380.</p>
+                </li>
+                <li>
+                    <p>4 Ounces Semisweet Chocolate – melted in the microwave in Room 380.</p>
+                </li>
+            </ul><p>STEPS:</p></context>
+            <steps>
+                <step>
+                    <cmd>Take the freezer bowl from out of the freezer and put it on the base of the
+                        appliance in Room 360.</cmd>
+                </step>
+                <step>
+                    <cmd>Put the mixing arm in the bowl with the circular side facing up.</cmd>
+                </step>
+                <step>
+                    <cmd>Put the lid on the base and turn it clockwise until the mechanism clicks into a
+                        locked position.</cmd>
+                </step>
+                <step>
+                    <cmd>Turn the appliance on by plugging in the cord to a nearby outlet in the back of
+                        the room.</cmd>
+                    <substeps id="substeps_cdw_f1n_px">
+                        <substep>
+                        <cmd>In a blender located in the kitchen area of Room 380, mix the coconut
+                            milk, sugar, salt and vanilla until smooth.</cmd>
+                    </substep>
+                        <substep>
+                        <cmd>Add thawed cherries and blend to personal preference of
+                            consistency.</cmd>
+                    </substep>
+                        <substep>
+                        <cmd>Cover with your name clearly marked and refrigerate for a minimum of 2
+                            hours or up to 12 hours.</cmd>
+                        <stepresult>Once chilled, the mixture will be a semi-solid consistency. (For
+                            a thicker ice cream, let the mixture refrigerate for longer or until the
+                            mixture becomes more solid.)</stepresult>
+                    </substep>
+                    </substeps>
+                </step>
+                <step>
+                    <cmd>Press "Ice Cream, Gelato, or Sorbet" button on the control panel.</cmd>
+                    
+                </step>
+                <step>
+                    <cmd>Press "Start/Stop" button.</cmd>
+                </step>
+                <step>
+                    <cmd>Pour the ingredients of the given recipe through the hole in the top of the
+                        lid.</cmd>
+                </step>
+            <step>
+                <cmd>Once thickened slightly, add the melted chocolate.</cmd>
+            </step>
+                <step>
+                <cmd>Continue spinning cycle and wait 20 minutes as the mixture thickens.</cmd>
+            </step>
+                <step>
+                    <cmd>Once the wait time is over, transfer the ice cream to an alternate container to
+                        serve or to save for later.</cmd>
+                </step>
+            </steps>
+        </taskbody>
+</task>

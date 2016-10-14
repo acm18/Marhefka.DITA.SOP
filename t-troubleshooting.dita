@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ek5_c2k_px">
+    <title>TROUBLESHOOTING</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p></p>
+            <ul id="ul_xhm_22k_px">
+                <li>If the door to Room 360 or 380 is locked, go to the main office in Shanks on the
+                    third floor and ask for assistance.</li>
+                <li>If the appliance is not working, call the 1-800 phone number located on the
+                        <xref href="http://www.cuisinart.com" format="html" scope="external"/>
+                    website.</li>
+                <li>Hard ingredients (i.e. nuts, chips, chunks) should be added 5 minutes before the
+                    end of the spinning cycle.</li>
+                <li>Dairy substitutes can be found in recipes on <xref
+                        href="http://www.cuisinart.com" format="html" scope="external"/>.</li>
+                <li>Users with food allergies should clean all parts thoroughly before use.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

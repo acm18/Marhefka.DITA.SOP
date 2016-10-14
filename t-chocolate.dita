@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fmb_zym_px">
+    <title>HOW TO MAKE A FROZEN DESSERT: CHOCOLATE ICE CREAM</title>
+    <shortdesc/>
+    <taskbody>
+        <context>INGREDIENTS:<ul id="ul_ayy_gzm_px">
+                <li>
+                    <p>2/3 Cup Cocoa Powder – sifted or until large clumps have been crushed</p>
+                </li>
+                <li>
+                    <p>1/2 Cup Granulated Sugar</p>
+                </li>
+                <li>
+                    <p>1/3 Cup Packed Brown Sugar</p>
+                </li>
+                <li>
+                    <p>1 Pinch Kosher Salt</p>
+                </li>
+                <li>
+                    <p>1 ½ Cups Whole Milk </p>
+                </li>
+                <li>
+                    <p>3 ½ Cups Heavy Cream</p>
+                </li>
+                <li>
+                    <p>2 Tablespoons Pure Vanilla Extract</p>
+                </li>
+            </ul><p>STEPS:</p></context>
+        <steps>
+            <step>
+                <cmd>Take the freezer bowl from out of the freezer and put it on the base of the
+                    appliance in Room 360.</cmd>
+            </step>
+            <step>
+                <cmd>Put the mixing arm in the bowl with the circular side facing up.</cmd>
+            </step>
+            <step>
+                <cmd>Put the lid on the base and turn it clockwise until the mechanism clicks into a
+                    locked position.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the appliance on by plugging in the cord to a nearby outlet in the back of
+                    the room.</cmd>
+                <substeps id="substeps_cdw_f1n_px">
+                    <substep>
+                        <cmd>Whisk the cocoa, sugar, and salt in a bowl.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Mix in the milk.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>With a hand mixer or whisk, whichever is readily available in the
+                            Shanks kitchen, combine the ingredients until the granules are
+                            dissolved.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Mix in the heavy cream and vanilla.</cmd>
+                        <stepresult>Once chilled, the mixture will be a semi-solid consistency. (For
+                            a thicker ice cream, let the mixture refrigerate for longer or until the
+                            mixture becomes more solid.)</stepresult>
+                    </substep>
+                </substeps>
+             </step>
+            <step>
+                <cmd>Press "Ice Cream, Gelato, or Sorbet" button on the control panel.</cmd>
+                
+            </step>
+            <step>
+                <cmd>Press "Start/Stop" button.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the ingredients of the given recipe through the hole in the top of the
+                    lid.</cmd>
+            </step>
+            <step>
+                <cmd>Wait 20 minutes as the mixture thickens.</cmd>
+            </step>
+            <step>
+                <cmd>Once the wait time is over, transfer the ice cream to an alternate container to
+                    serve or to save for later.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Ice Cream Guide</title>
+ <topicref href="c-coverpage.dita"/>
+ <topicref href="c-introduction.dita"/>
+ <topicref href="t-preparingmachine.dita"/>
+ <topicref href="t-cleaning.dita"/>
+ <topicref href="t-troubleshooting.dita"/>
+ <topicref href="t-vanilla.dita"/>
+ <topicref href="t-chocolate.dita"/>
+ <topicref href="t-cherrychoc.dita"/>
+</map>

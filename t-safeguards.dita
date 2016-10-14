@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_z5d_hyj_px">
+    <title>IMPORTANT SAFEGUARDS</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Read all instructions in this manual before using the Cuisinart ICE-60W.</cmd>
+            </step>
+            <step>
+                <cmd>To avoid electric shock, do not put cord, plug, or base in water or any other
+                    liquid.</cmd>
+            </step>
+            <step>
+                <cmd>Unplug the appliance when not in use and before cleaning.</cmd>
+            </step>
+            <step>
+                <cmd>Do not take the appliance out of the classroom for other use.</cmd>
+            </step>
+            <step>
+                <cmd>Clean parts only in the kitchen area of classroom 380.</cmd>
+                <info>
+                    <hazardstatement>
+                        <messagepanel id="messagepanel_ct1_2cn_px">
+                            <typeofhazard>CAUTION:</typeofhazard>
+                            <howtoavoid>- Not for use by children without parental or adult
+                                supervision. </howtoavoid>
+                            <howtoavoid>- Do not submerge the base in water.</howtoavoid>
+                            <howtoavoid>- Do not take the base apart.</howtoavoid>
+                            <howtoavoid>- Repairs should not be performed by students or faculty,
+                                only by Cuisinart employees or representatives.</howtoavoid>
+                        </messagepanel>
+                    </hazardstatement>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

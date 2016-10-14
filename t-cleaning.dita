@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qvh_jdk_px">
+    <title>HOW TO CLEAN THE MACHINE AFTER USE:</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <hazardstatement>
+                <messagepanel id="messagepanel_cnw_ybn_px">
+                    <typeofhazard>WARNING:</typeofhazard>
+                    <howtoavoid>Cuisinart ICE-60W mechanisms and parts are NOT dishwasher safe.
+                        Unplug the appliance before cleaning and take the removable parts to Room
+                        380 for safe cleaning.</howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Clean the lid (<i>Figure 2</i>), freezer bowl (<i>Figure 3</i>), and mixing arm
+                        (<i>Figure 4</i>), with warm water and soap. </cmd>
+                <info>
+                    <fig id="fig_dym_ydk_px">
+                        <title>Figure 2</title>
+                        <image href="../../../Screen%20Shot%202016-09-16%20at%209.43.55%20PM.jpg"
+                            id="image_eym_ydk_px"/>
+                    </fig>
+                    <fig id="fig_pnd_12k_px">
+                        <title>Figure 3</title>
+                        <image href="../../../Screen%20Shot%202016-09-16%20at%209.44.18%20PM.jpg"
+                            id="image_qnd_12k_px"/>
+                    </fig>
+                    <fig id="fig_u2l_b2k_px">
+                        <title>Figure 4</title>
+                        <image href="../../../Screen%20Shot%202016-09-16%20at%209.44.05%20PM.jpg"
+                            id="image_v2l_b2k_px"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Dry all pieces with a clean towel or paper towel.</cmd>
+            </step>
+            <step>
+                <cmd>Assemble all parts back together for next use and return parts to Room
+                    360.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

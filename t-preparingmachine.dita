@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xnn_31k_px">
+    <title>HOW TO PREPARE THE MACHINE:</title>
+    <shortdesc>Before using the appliance, follow these procedures to set up the machine
+        properly.</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Wipe the base (<i>Figure 1</i>) with a damp cloth or paper towels located in
+                    the Men’s/Women’s bathrooms on the third floor of Shanks</cmd>
+                <info>
+                    <fig id="fig_uwx_w1k_px">
+                        <title>Figure 1</title>
+                        <image href="../../../Screen%20Shot%202016-09-16%20at%209.44.58%20PM.png"
+                            id="image_crx_5ck_px"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Wash the lid (<i>Figure 2</i>), freezer bowl (<i>Figure 3</i>), and mixing arm
+                        (<i>Figure 4</i>) with warm water and soap in the kitchen area of Classroom
+                    380.</cmd>
+                <info>
+                    <fig id="fig_lzr_fck_px">
+                        <title>Figure 2</title>
+                        <image
+                            href="../../../../Pictures/Photos%20Library.photoslibrary/resources/media/version/32/00/fullsizeoutput_3297.jpeg"
+                            id="image_mzr_fck_px"/>
+                    </fig>
+                    <fig id="fig_vqt_3ck_px">
+                        <title>Figure 3</title>
+                        <image
+                            href="../../../../Pictures/Photos%20Library.photoslibrary/resources/media/version/32/00/fullsizeoutput_3238.jpeg"
+                            id="image_wqt_3ck_px"/>
+                    </fig>
+                    <fig id="fig_pdp_jck_px">
+                        <title>Figure 4</title>
+                        <image
+                            href="../../../../Pictures/Photos%20Library.photoslibrary/resources/media/version/32/00/fullsizeoutput_3209.jpeg"
+                            id="image_qdp_jck_px"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Freeze the bowl completely before using the appliance.</cmd>
+            </step>
+            <step>
+                <cmd>Leave the bowl in the freezer in Classroom 380 at all times before use and
+                    after cleaning for the next user.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

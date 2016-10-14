@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fcm_4kl_px">
+    <title>HOW TO MAKE A FROZEN DESSERT: VANILLA ICE CREAM</title>
+    <shortdesc/>
+    <taskbody>
+        <context>INGREDIENTS:<ul id="ul_dz4_cwm_px">
+                <li>
+                    <p>1 ½ Cups Whole Milk</p>
+                </li>
+                <li>
+                    <p>1 Cup Plus 2 Tablespoons Granulated Sugar</p>
+                </li>
+                <li>
+                    <p>1 Pinch Kosher Salt</p>
+                </li>
+                <li>
+                    <p>3 Cups Heavy Cream</p>
+                </li>
+                <li>
+                    <p>1 ½ Tablespoons Pure Vanilla Extract</p>
+                </li>
+            </ul><p>STEPS:</p></context>
+        <steps>
+            <step>
+                <cmd>Take the freezer bowl from out of the freezer and put it on the base of the
+                    appliance in Room 360.</cmd>
+            </step>
+            <step>
+                <cmd>Put the mixing arm in the bowl with the circular side facing up.</cmd>
+            </step>
+            <step>
+                <cmd>Put the lid on the base and turn it clockwise until the mechanism clicks into a
+                    locked position.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the appliance on by plugging in the cord to a nearby outlet in the back of
+                    the room.</cmd>
+                <substeps id="substeps_ptv_pxm_px">
+                    <substep>
+                        <cmd>With a hand mixer or whisk, whichever is readily available in Shanks
+                            kitchen, mix the milk, sugar, and salt until the granules are
+                            dissolved.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Mix in heavy cream and vanilla.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Cover with your name clealry marked and refrigerate for a minimum of 2
+                            hours or up to 12 hours in the Room 380 refrigerator.</cmd>
+                        <stepresult>Once chilled, the mixture will be a semi-solid consistency. (For
+                            a thicker ice cream, let the mixture refrigerate for longer or until the
+                            mixture becomes more solid.)</stepresult>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Press "Ice Cream, Gelato, or Sorbet" button on the control panel.</cmd>
+            </step>
+            <step>
+                <cmd>Press "Start/Stop" button.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the ingredients of the given recipe through the hole in the top of the
+                    lid.</cmd>
+            </step>
+            <step>
+                <cmd>Wait 20 minutes as the mixture thickens.</cmd>
+            </step>
+            <step>
+                <cmd>Once the wait time is over, transfer the ice cream to an alternate container to
+                    serve or to save for later.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
